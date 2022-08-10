@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerLine_Test_Task", "Powe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Powerline_Console", "Powerline_Console\Powerline_Console.csproj", "{1909D955-D001-4A33-B9D7-F7B01F868029}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{24B30E26-C27D-4017-812F-1DBB4C12ED6E}"
+	ProjectSection(SolutionItems) = preProject
+		Second_task.sql = Second_task.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
