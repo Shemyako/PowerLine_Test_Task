@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "PowerLine_Test_Task": {
+      "commandName": "Project"
+    },
+    "Профиль 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\nlev2\\source\\repos\\PowerLine_Test_Task\\Powerline_Console\\bin\\Debug\\net6.0\\Powerline_Console.exe"
+    }
+  }
+}
